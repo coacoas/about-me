@@ -12,12 +12,13 @@
 ** Things You Should Know
 
 - Been with Cotiviti 1 year, 6 days
-- Grew up in Northern Virginia
 - Graduated from the University of Virginia
 #+ATTR_REVEAL: :frag appear
 I am not artistic in any way
 
 #+REVEAL: split
+
+I grew up in Northern Virginia
 
 I live in Jacksonville, FL
 
@@ -39,5 +40,5 @@ And here is where I work:
 
 ** Fun
 
-#+REVEAL_HTML: <img src="parrothead.jpg" style="max-height:400px" />
+#+REVEAL_HTML: <img src="parrothead.jpg" style="max-height:400px" class="fragment"/>
 
