@@ -2,7 +2,7 @@
 #+REVEAL_TRANS: slide
 #+REVEAL_THEME: sky
 #+REVEAL_PLUGINS: (highlight notes)
-#+Title: Functional Programming in Scala
+#+Title: About Bill Carlson
 #+Author: Bill Carlson
 #+Email: bill.carlson@cotiviti.com
 
@@ -19,16 +19,19 @@ And here is where I work:
 
 ** What Makes Me Tick? 
 
-#+REVEAL_HTML: <img src="lana.jpg" style="max-width: 30%" />
-#+REVEAL_HTML: <img src="boys.jpg" style="max-width: 40%" />
+#+REVEAL_HTML: <img src="lana.jpg" alt="lana" style="max-width:30%" class="frag"/>
+
+#+REVEAL_HTML: <img src="boys.jpg" alt="boys" style="max-width:40%" class="frag"/>
 
 ** Feats of Strength
 
-#+ATTR_REVEAL: :frag appear :frag-idx 2
+#+ATTR_REVEAL: :frag t :frag-idx 2
 #+REVEAL_HTML: <img src="running.jpg" alt="running" style="max-width:30%" />
-#+ATTR_REVEAL: :frag appear :frag-idx 1
+
+#+ATTR_REVEAL: :frag t :frag-idx 1
 #+REVEAL_HTML: <img src="swimming.gif" alt="swimming" style="max-width:30%" />
-#+ATTR_REVEAL: :frag appear :frag-idx 3
+
+#+ATTR_REVEAL: :frag t :frag-idx 3
 #+REVEAL_HTML: <img src="jamie-bench.gif" alt="press" style="max-width:30%" />
 
 ** Fun
